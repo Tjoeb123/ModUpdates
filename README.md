@@ -1,1 +1,3 @@
-# sonic-origins-mod-updates
+# ModUpdates
+
+Used to store updates to my game mods.
