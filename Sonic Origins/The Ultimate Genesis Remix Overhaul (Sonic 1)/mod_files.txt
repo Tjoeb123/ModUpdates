@@ -1,2 +1,6 @@
+REMOVE raw/sound/STH1_music.acb
+REMOVE raw/sound/STH1_music.awb
+ADD raw/sound/STH1_music.acb
+ADD raw/sound/STH1_music.acb
 ADD README.txt
 ADD mod.ini
