@@ -4,6 +4,18 @@ This is a mod that replaces all of Sonic 1's music with all-new Genesis versions
 
 Update History
 
+Version 1.2.1
+-Fixed a critical typo in the mod_files.txt file that prevented the AWB file from actually updating
+
+Version 1.2
+-Updated the drums track for "Back in Time" to be closer to the original arrangement.
+-Added the intro to "Work it Out".
+
+The Ultimate Genesis Remix Overhaul (Sonic 1) v1.1
+-Updated the sound mixing for "Theory of Attack" to make the drums a bit less obnoxious in spots.
+-Added the two-cymbal into to "Theory of Attack".
+-"Continue" no longer loops. It instead fades out.
+
 v1.0.1
 -Added this README.txt file to the mod's install folder.
 
