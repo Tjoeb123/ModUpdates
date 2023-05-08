@@ -1,4 +1,6 @@
-1.2.1 = testing update
+## Version 1.2.1
+
+- Fixed a critical typo in the mod_files.txt file that prevented the AWB file from actually updating
 
 ## Version 1.2
 
