@@ -4,6 +4,11 @@ This is a mod that replaces all of Sonic 1's music with all-new Genesis versions
 
 Update History
 
+Version 1.3
+- In light of Nintendo's recent DMCA takedowns of mods for Garry's Mod, and to get ahead of something similar potentially happening to GameBananna as a whole, the Star Light theme is now replaced by "Living in the City" from Sonic R (as a Genesis remix, of course) instead of Rainbow Road from Mario Kart 64.
+- As a result, all previous instances of this mod have been removed from the site.
+- If you have those versions already downloaded, you can continue to use them if you choose not to update.
+
 Version 1.2.1
 -Fixed a critical typo in the mod_files.txt file that prevented the AWB file from actually updating
 
@@ -33,7 +38,7 @@ Tracklist
 "Back In Time" from Sonic R - replaces Marble
 "Work It Out" from Sonic R - replaces Spring Yard
 "Labyrinth" from the Master System/Game Gear version of Sonic 1 - replaces Labyrinth
-"Rainbow Road" from Mario Kart 64 - replaces Star Light
+"Living in the City" from Sonic R - replaces Star Light
 "X-Hunter Stage 1" from Mega Man X2 - replaces Scrap Brain
 "Theory of Attack" from Sonic Runners - replaces the boss theme
 "Victory Fanfare" from Sonic R - replaces the Act Clear Theme
