@@ -1,3 +1,7 @@
+## Version 1.4.1
+
+Whoops! Sorry about that. Fixed the Act Clear music switcharoo, and adjusted the volume of some of the previously-mentioned tracks.
+
 ## Version 1.4
 
 Music is now being UPGRADED!! The intent is to remake all tracks using DefleMask like I do for all Genesis Remixes now, rather than the old way with GarageBand. This means that the music is more accurate to the original hardware!
