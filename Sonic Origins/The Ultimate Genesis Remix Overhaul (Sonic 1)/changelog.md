@@ -1,3 +1,7 @@
+## Version 1.4.2
+
+Fixed further volume issues.
+
 ## Version 1.4.1
 
 Whoops! Sorry about that. Fixed the Act Clear music switcharoo, and adjusted the volume of some of the previously-mentioned tracks.
