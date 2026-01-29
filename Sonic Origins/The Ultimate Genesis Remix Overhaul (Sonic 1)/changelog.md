@@ -1,3 +1,13 @@
+## Version 1.5
+
+UPGRADED the following tracks:
+
+Final Zone (Azur Lane 6-4)
+Invincibility (Sonic Runners)
+Spring Yard Zone (Work It Out from Sonic R)
+Special Stage (Diamond in the Sky from Sonic R)
+1up (Sonic Advance)
+
 ## Version 1.4.2
 
 Fixed further volume issues.
