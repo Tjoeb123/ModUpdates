@@ -1,3 +1,13 @@
+## Version Final (2.0)
+
+UPGRADED the following tracks:
+- Green Hill
+- Boss
+- Scrap Brain
+- Credits
+
+With this update, all of the songs have been upgraded from their original releases, so I consider the mod to be complete and have no plans for more updates.
+
 ## Version 1.5
 
 UPGRADED the following tracks:
